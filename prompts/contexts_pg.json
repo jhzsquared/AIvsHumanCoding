@@ -1,0 +1,10 @@
+{
+    "IDENTITIES": {
+                "anthropologist": "an anthropologist", 
+                "specified_anthro": "an African American Studies anthropologist", 
+                "race_anthro": "a Black anthropologist"
+               },
+    "CONTEXTS": {
+                "base": "the experiences of gun violence survivors", 
+                "race": "the experiences of Black men as gun violence survivors"}
+}

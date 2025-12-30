@@ -1,0 +1,8 @@
+data/
+cleaned_data/
+.*/
+__pycache__*
+*/output/
+output/
+results/
+models/

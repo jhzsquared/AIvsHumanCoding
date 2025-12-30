@@ -1,0 +1,19 @@
+{
+    "output_path": "travail_output/",
+    "model_id": "LLM HF modelid",
+    "model_path": "path to saved models",
+    "paths": [
+            {"interview_path": "datasetpath" ,
+                "prompt_file":  "prompts/promptsfilename",
+                "data_proc": "type of dataproc",
+                "batch_size": 1}    
+            ],
+    "model_kwargs": false,
+    "temp": null,
+    "top_k": null,
+    "top_p": null,
+    "max_new_tokens": null,
+    "input_path": "input folderpath",
+    "context_file": "path to context file",
+    "date_updated": "2025_12_30"
+}

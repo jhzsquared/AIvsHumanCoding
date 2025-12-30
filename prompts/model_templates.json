@@ -1,0 +1,59 @@
+{
+    "meta-llama": {
+        "text":{
+            "prefix": "<|begin_of_text|>",
+            "suffix": ""
+        },
+        "system": {
+            "prefix":"<|start_header_id|>system<|end_header_id|>\n",
+            "suffix":"<|eot_id|>"
+        },
+        "user": {
+            "prefix":"<|start_header_id|>user<|end_header_id|>\n",
+            "suffix": "<|eot_id|><|start_header_id|>assistant<|end_header_id|>"
+        }
+    },
+    "google": {
+        "text":{
+            "prefix": "",
+            "suffix": ""
+        },
+        "system":{
+            "prefix": "",
+            "suffix": ""
+        },
+        "user": {
+            "prefix": "<start_of_turn>user\n",
+            "suffix": "<end_of_turn>\n<start_of_turn>model\n"
+        }
+    },
+    "allenai": {
+        "text":{
+            "prefix": "",
+            "suffix": ""
+        },
+        "system": {
+            "prefix": "<|system|>\n",
+            "suffix": "\n"
+        },
+        "user": {
+            "prefix": "<|user|>\n",
+            "suffix": "\n<|assistant|>\n"
+        }
+    },
+    "mistralai": {
+        "text":{
+            "prefix": "",
+            "suffix": ""
+        },
+        "system":{
+            "prefix": "",
+            "suffix": ""
+        },
+        "user":{
+            "prefix": "",
+            "suffix": ""
+        }
+    }
+}
+

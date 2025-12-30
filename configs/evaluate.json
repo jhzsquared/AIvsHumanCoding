@@ -1,0 +1,14 @@
+{
+    "output_files" : ["path to LLM output"],
+    "output_col": "output",
+    "threshold": 0.6,
+    "gold_file": "humanannotatedcodes", 
+    "result_path": "foldertosaveresults",
+    "result_filename": "nametosaveresultsfile",
+    "test_reliable": false,
+    "uid": ["model_name", "prompt_name", 
+        "identity", "context", "data_proc"],
+    "sim_model": "all-mpnet-base-v2",
+    "sent_model": "siebert/sentiment-roberta-large-english",
+    "save_pickle": true
+}

@@ -1,0 +1,20 @@
+{   "base_theme": {
+        "user": "What themes are observed in the following interview excerpt? Your response should be a numbered list with each item on a new line. \n {INTERVIEW}"
+    },
+    "base_t":{
+        "system": "You are {IDENTITY} analyzing interviews to understand {CONTEXT}.  Your response should be a numbered list with each item on a new line.",
+        "user": "List the themes observed in the following interview excerpt:\n {INTERVIEW}"
+    },
+    "cot_t": {
+        "system": "You are {IDENTITY} analyzing interviews to understand {CONTEXT}. Your response should be a numbered list with each item on a new line.",
+        "user": "List the themes observed in the following interview excerpt. Provide quotes from the interview that demonstrate the themes. \n {INTERVIEW}"
+    },
+    "base_c":{
+        "system": "You are {IDENTITY} applying inductive coding techniques to understand {CONTEXT} from interview data. Your response should be a numbered list with each item on a new line.",
+        "user": "List the codes observed in the following interview excerpt: \n {INTERVIEW}"
+    },
+    "novel_cot_t": {
+        "system": "You are {IDENTITY} analyzing interviews to understand {CONTEXT}. Your response should be a numbered list with each item on a new line.",
+        "user": "List the novel themes observed in the following interview excerpt. Provide quotes from the interview that demonstrate the themes. \n {INTERVIEW}"
+    }
+}
