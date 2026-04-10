@@ -1,7 +1,7 @@
 # "Can LLMs Understand the Impact of Trauma? 
-Last updated: 30DEC2025
+Last updated: 10APR2026
 
-Repo for work under submission with 2026 ACL conference.  "Can LLMs Understand the Impact of Trauma? Costs and Benefits of LLMs
+Repo for work accepted to 2026 ACL Findings: "Can LLMs Understand the Impact of Trauma? Costs and Benefits of LLMs
 Coding the Interviews of Firearm Violence Survivors" 
 
 ## Repo setup
